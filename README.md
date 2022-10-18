@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mariolivera
+- 👀 I’m interested in becoming a programmer, being able to work with good professionals in the profession. absorb as much knowledge as possible, to become a reference in the area, and be able to help other people who want to change their future.
+- 🌱 I’m currently learning Html, CSS, javascript, react, nodejs.
+- 💞️ I’m looking to collaborate on with front end development.
+- 📫 How to reach me, my cellphone number, +55 85 98797-5995, by email mariooliveiratec@otmail.com and by my linkedin.com/in/mario-oliveira-a67931247.
