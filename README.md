@@ -33,5 +33,3 @@
 - 👀 Tenho interesse em me tornar um otimo programador, poder trabalhar com bons profissionais, absorver o máximo de conhecimento possível, tornar-me uma referência na área e poder retribuir a oportunidade que me deram, no futuro quero ajudar jovens de quixeramobim, repassar oque eu pode aprender para as pessoas que desejam mudar seu futuro com a progamação, assim como estou mudando a minha.
   
 - 🌱 Tecnologias que estou estudando e praticando no momento, Html, bootstrap, CSS, javascript, react, reactbootstrap, nodejs, mysql, insomnia.
-  
-- 📫 Como entrar em contato comigo, por meu numero, +55 85 98797-5995, pelo email, mariooliveiratec@hotmail.com e pelo meu linkedin, linkedin.com/in/mario-oliveira-a67931247.
