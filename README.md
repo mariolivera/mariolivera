@@ -1,5 +1,5 @@
 ## 👋 Bem vindo, eu sou o mário.
-<img src="mariolivera\gif\138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
+<img src="gif\138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 
 <div align="center">
   <div align="center">
